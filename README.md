@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrsandstad
 - 👀 I’m interested in video games, politics, beer, and technology!
-- 🌱 I’m currently learning: NodeJS and React
+- 🌱 I’m currently learning: NodeJS, React, and TypeScript
 - 🔨 Currently developing: loldraft
 
 <!---
